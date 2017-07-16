@@ -1,6 +1,6 @@
-# egghead.io
+# youtube todolist
 
-Interested in learning [Mobx](https://egghead.io/lessons/javascript-mobx-and-react-intro-syncing-the-ui-with-the-app-state-using-observable-and-observer)
+Interested in learning [Mobx](https://www.youtube.com/watch?v=_q50BXqkAfI)
 
 #### Boilderplate
 ```
